@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Kylsky
+# 👋 Hi there, It's Kylsky
 
 ## 📊 GitHub 统计
 
