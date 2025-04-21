@@ -1,4 +1,4 @@
-<div align="center">
+[<div align="center">
   
   # 👋 欢迎来到 Kylsky 的 GitHub 空间
   
@@ -36,10 +36,7 @@
   ## 🛠️ 技术栈
   
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-  ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
   ![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
   ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
   ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -58,3 +55,4 @@
   <img src="https://komarev.com/ghpvc/?username=Kylsky&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile views" />
   
 </div>
+](https://github.com/Kylsky/mirror-chatgpt)
