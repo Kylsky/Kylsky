@@ -1,10 +1,8 @@
 <div align="center">
-  
+
   # 👋 欢迎来到 Kylsky 的 GitHub 空间
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=AI+%E5%BC%80%E6%BA%90%E7%88%B1%E5%A5%BD%E8%80%85;Full+Stack+Developer;%E6%99%BA%E8%83%BD%E5%8C%96%E5%B9%B3%E5%8F%B0%E6%9E%84%E5%BB%BA%E8%80%85" alt="Typing SVG" />
-  
-  <br/>
 
   ## 📊 GitHub 数据统计
   
