@@ -35,7 +35,7 @@
   
   ## 💻 项目简介
   
-  ### 🚀 Pandora Helper 智能共享平台
+  ### 🚀 Pandora Helper 智能 AI 共享平台
   
   <p align="left">
     <b>后端项目</b>: 基于 Linux DO 的智能共享服务平台，支持 ChatGPT(Plus)、Claude(PRO)、Midjourney、API 和 Grok 服务。
@@ -48,17 +48,17 @@
     <br/><a href="https://github.com/Kylsky/pandora-helper-frontend">🔗 查看项目</a>
   </p>
   
-  ### 🤖 Mirror ChatGPT
+  ### 🤖 ChatGPT Mirror 
   
   <p align="left">
     Python 实现的 ChatGPT 镜像服务，提供稳定可靠的 AI 对话能力。
     <br/><a href="https://github.com/Kylsky/mirror-chatgpt">🔗 查看项目</a>
   </p>
   
-  ### 🎨 MJ Dify on WeChat Plugin
+  ### 🎨 Midjourney Dify on WeChat Plugin
   
   <p align="left">
-    支持 new-api 的 Midjourney 微信插件，提供丰富的 AI 绘图功能：
+    兼容 new-api 的 Midjourney 微信插件，提供丰富的 AI 绘图功能：
     <br/>• 支持 imagine、upscale、variation、describe 等核心功能
     <br/>• 支持用户隔离、任务队列和白名单管理
     <br/>• 支持每日作图限制和自定义前缀
