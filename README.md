@@ -14,12 +14,6 @@
   
   <br/>
   
-  ## 🔥 连续贡献
-  
-  <img width="99%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kylsky&theme=tokyonight&border_radius=15" alt="GitHub Streak" />
-  
-  <br/>
-  
   ## 🌟 精选项目
   
   <a href="https://github.com/Kylsky/pandora-helper-with-linux-do-oauth">
@@ -92,10 +86,6 @@
   
   <a href="https://github.com/Kylsky" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-  
-  <a href="https://t.me/PandoraHelperChannel" target="_blank">
-    <img src="https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   
   <br/>
