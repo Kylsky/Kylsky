@@ -40,7 +40,7 @@
   <p align="left">
     <b>后端项目</b>: 基于 Linux DO 的智能共享服务平台，支持 ChatGPT(Plus)、Claude(PRO)、Midjourney、API 和 Grok 服务。
     <br/>采用 OAuth 授权与智能动态切换功能，确保账号安全，支持多账号统一管理。
-    <br/><a href="https://github.com/Kylsky/pandora-helper-with-linux-do-oauth">🔗 查看项目</a> | <a href="https://wiki.yeelovo.com">📚 文档站</a>
+    <br/><a href="https://github.com/Kylsky/pandora-helper-with-linux-do-oauth">🔗 查看项目</a> | <a href="https://wiki.yeelovo.com">📚 文档站</a> | <a href="https://helper.yeelo.fun">🌐 公益站点</a>
   </p>
   
   <p align="left">
@@ -77,6 +77,22 @@
   ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
   ![OAuth2](https://img.shields.io/badge/-OAuth2-31A8FF?style=flat-square&logo=oauth&logoColor=white)
   ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+  
+  <br/>
+  
+  ## 🌐 个人网站
+  
+  <a href="https://halo.yeelovo.com" target="_blank">
+    <img src="https://img.shields.io/badge/-个人博客-0088CC?style=for-the-badge&logo=wordpress&logoColor=white" alt="Blog" />
+  </a>
+  
+  <a href="https://helper.yeelo.fun" target="_blank">
+    <img src="https://img.shields.io/badge/-Pandora_Helper-5C2D91?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xNy4wMzYgMTEuMWMyLjYgMCA0LjktMS45IDQuOS00LjVzLTIuMy00LjUtNC45LTQuNWMtMi43IDAtNC45IDEuOS00LjkgNC41czIuMiA0LjUgNC45IDQuNXptLTkuNiAyLjFjMi40IDAgNC41LTEuOCA0LjUtNC4xcy0yLjEtNC4xLTQuNS00LjFTMyA2LjkgMyA5LjFzMiA0LjEgNC40IDQuMXptOS42IDEuNmMtMS45IDAtMy42LjgtNC44IDIuMS0yLjEtMS40LTQuOS0xLjktNy45LTEuOS0uNyAwLTEuNCAwLTIuMSAxdi04LjNDMS40IDQuNyAwIDYuMiAwIDhjMCA1LjQgMy40IDEwIDggMTEuOCAxLjYuNiAzLjMuOSA1IC45IDMuNSAwIDYuOS0xLjEgOS42LTMuMyAxLjItMSAxLjktMi41IDEuOS00LjEgMC0yLjMtMS44LTQuMS00LjEtNC4xaC0zLjJ6Ii8+PC9zdmc+" alt="Pandora Helper" />
+  </a>
+  
+  <a href="https://status.yeelovo.com/status/apps" target="_blank">
+    <img src="https://img.shields.io/badge/-网站监测-00B265?style=for-the-badge&logo=statuspage&logoColor=white" alt="Status" />
+  </a>
   
   <br/>
   
