@@ -12,12 +12,9 @@
 [![Stars](https://img.shields.io/github/stars/Kylsky?style=for-the-badge&logo=github&label=Total%20Stars&color=yellow&affiliations=OWNER)](https://github.com/Kylsky)
 
 ---
--------
 
 ![](https://raw.githubusercontent.com/Kylsky/Kylsky/output/github-contribution-grid-snake.svg)
 
-
--------
 
 ## 🌟 精选项目
 
