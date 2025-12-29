@@ -21,7 +21,7 @@
 <td width="50%" valign="top">
 
 
-<p align="center">### 🚀 Pandora Helper 后端</p>
+<p align="center"><h2>🚀 Pandora Helper 后端</h2></p>
 
 <p align="center">
 <a href="https://github.com/Kylsky/pandora-helper-with-linux-do-oauth">
@@ -49,7 +49,7 @@
 </td>
 <td width="50%" valign="top">
 
-### 🎨 Pandora Helper 前端
+<p align="center"><h2>🎨 Pandora Helper 前端</h2></p>
 
 <p align="center">
 <a href="https://github.com/Kylsky/pandora-helper-frontend">
@@ -77,7 +77,7 @@ Pandora Helper 的现代化前端界面，基于 Vue.js 构建
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 Mirror ChatGPT
+<p align="center"><h2>🤖 Mirror ChatGPT</h2></p>
 
 <p align="center">
 <a href="https://github.com/Kylsky/mirror-chatgpt">
