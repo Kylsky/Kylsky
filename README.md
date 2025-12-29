@@ -14,7 +14,8 @@
 ---
 -------
 
-![](https://raw.githubusercontent.com/Kylsky/Kylsky/output/github-contribution-grid-snake.svgh
+![](https://raw.githubusercontent.com/Kylsky/Kylsky/output/github-contribution-grid-snake.svg)
+
 
 -------
 
