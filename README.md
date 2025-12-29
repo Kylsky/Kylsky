@@ -1,6 +1,7 @@
 <div align="center">
 
 
+
 # 👋 Hey, It's Kylsky
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=AI+%E5%BC%80%E6%BA%90%E7%88%B1%E5%A5%BD%E8%80%85;Full+Stack+Developer;%E6%99%BA%E8%83%BD%E5%8C%96%E5%B9%B3%E5%8F%B0%E6%9E%84%E5%BB%BA%E8%80%85" alt="Typing SVG" />
@@ -21,7 +22,8 @@
 <td width="50%" valign="top">
 
 
-<p align="center"><h2>🚀 Pandora Helper 后端</h2></p>
+
+<h2 align="center">🚀 Pandora Helper 后端</h2>
 
 <p align="center">
 <a href="https://github.com/Kylsky/pandora-helper-with-linux-do-oauth">
@@ -30,11 +32,13 @@
 </p>
 
 
+
 <p align="center">
 <img src="https://img.shields.io/github/stars/Kylsky/pandora-helper-with-linux-do-oauth?style=flat-square&color=yellow&label=stars" />
 <img src="https://img.shields.io/github/forks/Kylsky/pandora-helper-with-linux-do-oauth?style=flat-square&color=blue&label=forks" />
 <img src="https://img.shields.io/github/last-commit/Kylsky/pandora-helper-with-linux-do-oauth?style=flat-square&color=green&label=update" />
 </p>
+
 
 
 基于 Linux DO OAuth 的智能 AI 共享平台，支持 ChatGPT / Claude / Midjourney / Grok
@@ -46,16 +50,18 @@
 </p>
 
 
+
 </td>
 <td width="50%" valign="top">
 
-<p align="center"><h2>🎨 Pandora Helper 前端</h2></p>
+<h2 align="center">🎨 Pandora Helper 前端</h2>
 
 <p align="center">
 <a href="https://github.com/Kylsky/pandora-helper-frontend">
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
 </a>
 </p>
+
 
 
 <p align="center">
@@ -65,6 +71,7 @@
 </p>
 
 
+
 Pandora Helper 的现代化前端界面，基于 Vue.js 构建
 
 <p align="center">
@@ -72,18 +79,20 @@ Pandora Helper 的现代化前端界面，基于 Vue.js 构建
 </p>
 
 
+
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<p align="center"><h2>🤖 Mirror ChatGPT</h2></p>
+<h2 align="center">🤖 Mirror ChatGPT</h2>
 
 <p align="center">
 <a href="https://github.com/Kylsky/mirror-chatgpt">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </a>
 </p>
+
 
 
 <p align="center">
@@ -93,6 +102,7 @@ Pandora Helper 的现代化前端界面，基于 Vue.js 构建
 </p>
 
 
+
 Python 实现的 ChatGPT 镜像服务，提供稳定可靠的 AI 对话能力
 
 <p align="center">
@@ -100,16 +110,18 @@ Python 实现的 ChatGPT 镜像服务，提供稳定可靠的 AI 对话能力
 </p>
 
 
+
 </td>
 <td width="50%" valign="top">
 
-### 🖼️ MJ Dify 微信插件
+<h2 align="center">🖼️ MJ Dify 微信插件</h2>
 
 <p align="center">
 <a href="https://github.com/Kylsky/mj-dify-on-wechat-plugin">
 <img src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white" />
 </a>
 </p>
+
 
 
 <p align="center">
@@ -119,6 +131,7 @@ Python 实现的 ChatGPT 镜像服务，提供稳定可靠的 AI 对话能力
 </p>
 
 
+
 兼容 new-api 的 Midjourney 微信插件，支持 imagine / upscale / variation
 
 <p align="center">
@@ -126,11 +139,13 @@ Python 实现的 ChatGPT 镜像服务，提供稳定可靠的 AI 对话能力
 </p>
 
 
+
 </td>
 </tr>
 </table>
 
 <div align="center">
+
 
 
 ---
@@ -141,38 +156,37 @@ Python 实现的 ChatGPT 镜像服务，提供稳定可靠的 AI 对话能力
 
 <table>
 <tr>
-<td>
+<td align="center">
 
 
-**🚀 Pandora Helper** - 基于 Linux DO 的智能共享服务平台
-
-- 支持 ChatGPT(Plus)、Claude(PRO)、Midjourney、API 和 Grok 服务
-- OAuth 授权与智能动态切换，确保账号安全
-- 多账号统一管理
+**🚀 Pandora Helper** - 基于 Linux DO 的智能共享服务平台<br/>
+支持 ChatGPT(Plus)、Claude(PRO)、Midjourney、API 和 Grok 服务<br/>
+OAuth 授权与智能动态切换，确保账号安全<br/>
+多账号统一管理
 
 </td>
 </tr>
 <tr>
-<td>
+<td align="center">
 
 **🤖 ChatGPT Mirror** - Python 实现的 ChatGPT 镜像服务，提供稳定可靠的 AI 对话能力
 
 </td>
 </tr>
 <tr>
-<td>
+<td align="center">
 
-**🎨 MJ Dify 微信插件** - 兼容 new-api 的 Midjourney 微信插件
-
-- 支持 imagine、upscale、variation、describe 等核心功能
-- 用户隔离、任务队列和白名单管理
-- 每日作图限制和自定义前缀
+**🎨 MJ Dify 微信插件** - 兼容 new-api 的 Midjourney 微信插件<br/>
+支持 imagine、upscale、variation、describe 等核心功能<br/>
+用户隔离、任务队列和白名单管理<br/>
+每日作图限制和自定义前缀
 
 </td>
 </tr>
 </table>
 
 <div align="center">
+
 
 
 ---
@@ -203,3 +217,4 @@ Python 实现的 ChatGPT 镜像服务，提供稳定可靠的 AI 对话能力
 <img src="https://komarev.com/ghpvc/?username=Kylsky&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
+
