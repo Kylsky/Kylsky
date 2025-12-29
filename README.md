@@ -152,8 +152,6 @@ Python 实现的 ChatGPT 镜像服务，提供稳定可靠的 AI 对话能力
 
 ## 💻 项目简介
 
-</div>
-
 <table>
 <tr>
 <td align="center">
@@ -184,9 +182,6 @@ OAuth 授权与智能动态切换，确保账号安全<br/>
 </td>
 </tr>
 </table>
-
-<div align="center">
-
 
 
 ---
