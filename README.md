@@ -21,7 +21,7 @@
 <td width="50%" valign="top">
 
 
-### 🚀 Pandora Helper 后端
+<p align="center">### 🚀 Pandora Helper 后端</p>
 
 <p align="center">
 <a href="https://github.com/Kylsky/pandora-helper-with-linux-do-oauth">
