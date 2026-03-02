@@ -57,10 +57,10 @@
 </td>
 <td width="50%" valign="top">
 
-<h2 align="center">🎨 Pandora Helper 前端</h2>
+<h2 align="center">🎨 ChatGPT Team Helper</h2>
 
 <p align="center">
-<a href="https://github.com/Kylsky/pandora-helper-frontend">
+<a href="https://github.com/Kylsky/chatgpt-team-helper">
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
 </a>
 </p>
@@ -68,14 +68,14 @@
 
 
 <p align="center">
-<img src="https://img.shields.io/github/stars/Kylsky/pandora-helper-frontend?style=flat-square&color=yellow&label=stars" />
-<img src="https://img.shields.io/github/forks/Kylsky/pandora-helper-frontend?style=flat-square&color=blue&label=forks" />
-<img src="https://img.shields.io/github/last-commit/Kylsky/pandora-helper-frontend?style=flat-square&color=green&label=update" />
+<img src="https://img.shields.io/github/stars/Kylsky/chatgpt-team-helper?style=flat-square&color=yellow&label=stars" />
+<img src="https://img.shields.io/github/forks/Kylsky/chatgpt-team-helper?style=flat-square&color=blue&label=forks" />
+<img src="https://img.shields.io/github/last-commit/Kylsky/chatgpt-team-helper?style=flat-square&color=green&label=update" />
 </p>
 
 
 
-Pandora Helper 的现代化前端界面，基于 Vue.js 构建
+一站式 ChatGPT Team 账号管理，基于 Vue.js 构建
 
 <p align="center">
 <a href="https://github.com/Kylsky/pandora-helper-frontend">📦 仓库</a>
