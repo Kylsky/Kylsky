@@ -78,7 +78,7 @@
 
 <p align="center">
 <a href="https://github.com/Kylsky/pandora-helper-frontend">📦 仓库</a> ·
-<a href="https://helper.yeelo.fun">🌐 演示</a>
+<a href="https://team.yeelovo.com">🌐 演示</a>
 </p>
 
 
