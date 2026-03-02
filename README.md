@@ -48,8 +48,7 @@
 
 <p align="center">
 <a href="https://github.com/Kylsky/pandora-helper-with-linux-do-oauth">📦 仓库</a> ·
-<a href="https://wiki.yeelovo.com">📚 文档</a> ·
-<a href="https://helper.yeelo.fun">🌐 演示</a>
+<a href="https://wiki.yeelovo.com">📚 文档</a>
 </p>
 
 
@@ -78,7 +77,8 @@
 一站式 ChatGPT Team 账号管理，基于 Vue.js 构建
 
 <p align="center">
-<a href="https://github.com/Kylsky/pandora-helper-frontend">📦 仓库</a>
+<a href="https://github.com/Kylsky/pandora-helper-frontend">📦 仓库</a> ·
+<a href="https://helper.yeelo.fun">🌐 演示</a>
 </p>
 
 
