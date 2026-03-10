@@ -77,7 +77,7 @@
 一站式 ChatGPT Team 账号管理，基于 Vue.js 构建，支持源支付、小红书、闲鱼订单自动发货与管理
 
 <p align="center">
-<a href="https://github.com/Kylsky/pandora-helper-frontend">📦 仓库</a> ·
+<a href="https://github.com/Kylsky/chatgpt-team-helper">📦 仓库</a> ·
 <a href="https://team.yeelovo.com">🌐 演示</a>
 </p>
 
