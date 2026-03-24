@@ -47,7 +47,7 @@
 基于 Linux DO OAuth 的智能 AI 共享平台，支持 ChatGPT / Claude / Midjourney / Grok
 
 <p align="center">
-<a href="https://github.com/Kylskychatgpt-team-helper">📦 仓库</a> ·
+<a href="https://github.com/Kylsky/pandora-helper-with-linux-do-oauth">📦 仓库</a> ·
 <a href="https://wiki.yeelovo.com">📚 文档</a>
 </p>
 
